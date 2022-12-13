@@ -1,8 +1,12 @@
 ### Olá! Sou Ricardo Sousa!
-<div align="center">
+<div align="center"><br>
+  <img align="center" alt="Rafa-yoda" width=200px" src="https://pa1.narvii.com/6594/092a6cbdf933a3e53efca88e63d0c09805343bdc_hq.gif">
+</div>
+ 
+ <div align="center"><br>
   <a href="https://github.com/RicardoSS27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoSS27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSS27&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardoss27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoss27&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
