@@ -1,10 +1,10 @@
 ### Olá! Sou Ricardo Sousa!
- github_dark: {
+ .github_dark: {
     title_color: "58A6FF",
     icon_color: "1F6FEB",
     text_color: "C3D1D9",
     bg_color: "0D1117",
-  },
+  };
 <div align="center">
   <a href="https://github.com/RicardoSS27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoSS27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
