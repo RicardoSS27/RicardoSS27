@@ -14,7 +14,7 @@ I’m deeply focused on **architecture, performance, clean code, and Clean Archi
     <img src="https://img.shields.io/badge/GitHub-RICARDOSOUSA-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/ricardo-ssa/">
-    <img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
