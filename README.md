@@ -3,7 +3,7 @@
 🚀 **Junior Software Engineer | JavaScript & .NET**  
 🇧🇷 Brazil
 
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+I’m deeply focused on **architecture, performance, clean code, and Clean Architecture**.
 
 ---
 
