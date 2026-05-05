@@ -65,5 +65,4 @@ I’m deeply focused on **architecture, performance, clean code, and Clean Archi
 
 ---
 
-⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
